@@ -77,6 +77,12 @@ To run the project execute the command below
 - Twitter: [@davidigbo1](https://twitter.com/davidigbo1)
 - LinkedIn: [davidigbo/](https://www.linkedin.com/in/davidigbo/)
 
+👤 **Abdullah AL mamun**
+
+- GitHub: [@dev-mamun](https://github.com/dev-mamun)
+- Twitter: [@CoderKnight](https://twitter.com/CoderKnight)
+- LinkedIn: [Mamun](https://www.linkedin.com/in/dev-mamun/)
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
