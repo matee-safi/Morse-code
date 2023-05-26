@@ -1,6 +1,4 @@
 # Morse-code
-
-# my-enumerable
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -22,13 +20,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 enumerable
+# 📖 Morse-code
 
 <a name="about-project"></a>
 
-# enumerable
+# Morse-code
 
-This is enumeration in ruby programming language
+This is morse-code in ruby programming language
 
 
 
@@ -58,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 
 Clone this repository to your desired folder:
 `cd my-folder`
-`git clone git@github.com:matee-safi/my-enumerable.git`
+`git clone git@github.com:matee-safi/Morse-code.git`
 
 To run the project execute the command below
 
