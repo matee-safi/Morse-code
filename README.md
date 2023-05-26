@@ -141,6 +141,12 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Matee Safi**
+
+- GitHub: [@matee-safi](https://github.com/matee-safi)
+- Twitter: [@matee-safi](https://twitter.com/matee-safi)
+- LinkedIn: [Matee](https://www.linkedin.com/in/matee-safi/)
+
 👤 **Abdullah AL mamun**
 
 - GitHub: [@dev-mamun](https://github.com/dev-mamun)
