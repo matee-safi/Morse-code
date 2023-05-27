@@ -28,8 +28,6 @@
 
 This is morse-code in ruby programming language
 
-
-
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -46,6 +44,7 @@ This is morse-code in ruby programming language
 
 ### Key Features
 
+- Translates your morse code into English.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,6 +86,7 @@ To run the project execute the command below
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- Stay tuned for future updates.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,12 +114,6 @@ If you like this project don't doubt on make any comments or try to reach me out
 
 - Thanks to Microverse
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
